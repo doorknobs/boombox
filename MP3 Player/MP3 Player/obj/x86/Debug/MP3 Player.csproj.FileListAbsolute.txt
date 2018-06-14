@@ -1,0 +1,28 @@
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\bin\Debug\MP3 Player.exe
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\bin\Debug\MP3 Player.pdb
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\MP3 Player.csproj.ResolveComReference.cache
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\MP3_Player.Form1.resources
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\MP3 Player.exe
+C:\Users\TheDarkJoker\AppData\Local\Temporary Projects\MP3 Player\obj\x86\Debug\MP3 Player.pdb
+C:\Users\root\Downloads\MP3 Player\MP3 Player\bin\Debug\MP3 Player.exe
+C:\Users\root\Downloads\MP3 Player\MP3 Player\bin\Debug\MP3 Player.pdb
+C:\Users\root\Downloads\MP3 Player\MP3 Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\root\Downloads\MP3 Player\MP3 Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\MP3 Player.csprojAssemblyReference.cache
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\MP3 Player.csproj.ResolveComReference.cache
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\MP3_Player.Form1.resources
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\MP3_Player.Properties.Resources.resources
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\MP3 Player.csproj.GenerateResource.cache
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\MP3 Player.csproj.CoreCompileInputs.cache
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\MP3 Player.exe
+C:\Users\root\Downloads\MP3 Player\MP3 Player\obj\x86\Debug\MP3 Player.pdb
