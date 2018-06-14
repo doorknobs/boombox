@@ -40,7 +40,21 @@ namespace MP3_Player
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            axWindowsMediaPlayer1.URL = paths[listBox1.SelectedIndex]; // Play the song  
+            int index = listBox1.SelectedIndex;
+            int pathMaxSize = paths.Count();
+
+
+            //avoid Out or range when clicked over the listbox, the player only will play when the item on the list will clicked...
+            if (index >= 0 && index < pathMaxSize)
+            {
+                axWindowsMediaPlayer1.URL = paths[listBox1.SelectedIndex]; // Play the song 
+            }
+            else
+            {
+                MessageBox.Show("Please, select one music from the list!", "", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            }
+                
+             
         }
     }
 }
