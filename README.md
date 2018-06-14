@@ -1,2 +1,2 @@
 # boombox 🚀
-powerful mp3 player written in c# 🚀
+powerful mp3 player written in c# 
